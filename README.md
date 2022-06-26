@@ -1,5 +1,6 @@
 # Projeto de introdução ao React Native da DIO
-![image](https://user-images.githubusercontent.com/14898947/175801470-6bb6e7b8-4f27-4577-936e-3da61bf72f71.png)
+
+![image](https://user-images.githubusercontent.com/14898947/175802940-8064d952-c0b9-4534-8acc-b612d12dd214.png)
 
 # Conteudo
 - Conhecendo o React Native
