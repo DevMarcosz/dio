@@ -4,6 +4,8 @@ import {Linking, View, Image, Text, StyleSheet, SafeAreaView, StatusBar, Pressab
 const backgroundColor = '#010409';
 const colorFont = '#C9D1D9';
 const colorFontNickname = '#4F565E';
+const colorStatus = '#26A641';
+const colorStatusblack = '#006D32';
 const urlGitHub = 'https://github.com/DevMarcosz';
 const imageProfileURL = 'https://avatars.githubusercontent.com/u/14898947?s=96&v=4';
 const App = () => {
@@ -33,8 +35,96 @@ const App = () => {
         <Text style={[style.defaultText, style.textButton]}>Open in GitHub</Text>
        </View>
        </Pressable>
-    
     </View>
+    <View style={style.secondContent} >
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+    </View>
+    <View style={style.secondContent} >
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+    </View>
+    <View style={style.secondContent} >
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.status]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+    </View>
+
+    <View style={style.secondContent} >
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+    </View>
+
+    <View style={style.secondContent} >
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+    </View>
+
+    <View style={style.secondContent} >
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+    </View>
+
+
   </SafeAreaView>
   );
 };
@@ -84,4 +174,24 @@ const style = StyleSheet.create({
     fontSize: 14,
     fontWeight: 'bold',
   },
+  secondContent:{
+    alignItems: 'center',
+    flexDirection: 'row',
+    
+  },
+  status: {
+    marginTop: 2,
+    marginRight : 2,
+    backgroundColor : colorStatus ,
+    borderRadius: 5,
+    padding: 5,
+  },
+  greenSquare: {
+    marginTop: 2,
+    marginRight : 2,
+    backgroundColor : colorStatusblack ,
+    borderRadius: 5,
+    padding: 5,
+    flexDirection: 'row',
+  }
 });
