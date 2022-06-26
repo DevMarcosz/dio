@@ -49,18 +49,7 @@ const App = () => {
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
-    </View>
-    <View style={style.secondContent} >
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
-          <Text style={[style.status, style.defaultText]}>    </Text>
-          <Text style={[style.status, style.defaultText]}>    </Text>
-          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
-          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
-          <Text style={[style.status, style.defaultText]}>    </Text>
-          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
-          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
-          <Text style={[style.status, style.defaultText]}>    </Text>
-          <Text style={[style.status, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
     </View>
@@ -68,17 +57,104 @@ const App = () => {
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.status, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
-          <Text style={[style.status, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.status, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.status, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
-          <Text style={[style.greenSquare, style.status]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
     </View>
-
+    <View style={style.secondContent} >
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+    </View>
+    <View style={style.secondContent} >
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+    </View>
+    <View style={style.secondContent} >
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+    </View>
+    <View style={style.secondContent} >
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+    </View>
+    <View style={style.secondContent} >
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+    </View>
     <View style={style.secondContent} >
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.status, style.defaultText]}>    </Text>
@@ -89,26 +165,47 @@ const App = () => {
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.status, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.status, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
     </View>
-
     <View style={style.secondContent} >
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
           <Text style={[style.status, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.status, style.defaultText]}>    </Text>
-          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
-          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.status, style.defaultText]}>    </Text>
           <Text style={[style.status, style.defaultText]}>    </Text>
-          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
     </View>
-
+    <View style={style.secondContent} >
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.status, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+    </View>
     <View style={style.secondContent} >
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
@@ -122,8 +219,10 @@ const App = () => {
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
           <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
+          <Text style={[style.greenSquare, style.defaultText]}>    </Text>
     </View>
-
 
   </SafeAreaView>
   );
